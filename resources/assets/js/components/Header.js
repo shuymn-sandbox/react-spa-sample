@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { AppBar, withStyles } from 'material-ui';
+import { AppBar } from 'material-ui';
 
 export default class Header extends Component {
     render() {
